@@ -83,5 +83,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log(`Apple Login POC listening on port ${port}!`);
+  console.log(`Apple Login POC listening on port 3000!`);
 });
